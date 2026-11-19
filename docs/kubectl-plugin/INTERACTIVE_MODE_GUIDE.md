@@ -435,5 +435,5 @@ source ~/.bashrc
 ## Feedback
 
 Interactive mode is continuously improving. Submit feedback:
-- GitHub Issues: https://github.com/OtowoOrg/Stellar-K8s/issues
+- GitHub Issues: https://github.com/agnesnaomiolim-cloud/Stellar-forge/issues
 - Feature Requests: Use the "enhancement" label
